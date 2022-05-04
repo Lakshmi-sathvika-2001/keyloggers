@@ -8,4 +8,4 @@ pip install- pywin32
            - pynput
            - cryptography
            - requests
-           - pillow
+           - pillow.
