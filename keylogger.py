@@ -35,7 +35,7 @@ extend = "\\"
 file_merge = file_path + extend
 
 
-# get the computer information
+# #get the computer information
 def computer_information():
     with open(file_path + extend + system_information, "a") as f:
         hostname = socket.gethostname()
